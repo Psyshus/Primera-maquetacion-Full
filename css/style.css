@@ -10,21 +10,21 @@ html {
 
 @font-face {
   font-family: "TrebuchetMS";
-  src: url(/fonts/TrebuchetMS.ttf);
+  src: url(./fonts/TrebuchetMS.ttf);
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "BebasNeue";
-  src: url(/fonts/BebasNeue.otf);
+  src: url(./fonts/BebasNeue.otf);
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "WebSymbolsRegular";
-  src: url(/fonts/websymbols-regular-webfont.eot);
+  src: url(./fonts/websymbols-regular-webfont.eot);
   src: url(/fonts/websymbols-regular-webfont.eot?#iefix)
       format("embedded-opentype"),
     url(/fonts/websymbols-regular-webfont.woff) format("woff"),
