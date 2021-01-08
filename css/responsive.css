@@ -380,4 +380,39 @@
     min-height: 84px;
     margin: 14px auto;
   }
+
+  .card .icon {
+    height: 85px;
+    font-size: 3rem;
+    line-height: 65px;
+  }
+  .wrap .card h2 {
+    font-size: 1.2rem;
+  }
+
+  .card:hover .icon {
+    height: 85px;
+    font-size: 3rem;
+    line-height: 65px;
+  }
+  .wrap .card:hover h2 {
+    font-size: 1.2rem;
+  }
+  .lateral input[type="button"],
+  .lateral input[type="submit"] {
+    padding-left: 6px;
+  }
 }
+
+
+@media (max-width: 471px) {
+  .banner h1 {
+    font-size: 2rem;
+    margin: 16px auto;
+  }
+
+  .wrap .banner {
+    width: 96%;
+    min-height: 76px;
+    margin: 10px auto;
+  }
